@@ -2,7 +2,7 @@
 #
 # Programa xsuma1.py desarrollado en Python 3 en 
 #
-# Windows 10
+# Windows 10 S
 #
 # El script visualiza el primer registro de la tabla page1 y
 #
